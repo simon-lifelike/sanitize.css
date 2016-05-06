@@ -1,6 +1,6 @@
 {
   "name": "sanitize.css",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Render elements consistently. Follow best practices.",
   "main": "index.js",
   "style": "sanitize.css",
